@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color:blue;
+}
+section{
+    height: 450px;
+}
+.articulo1{
+    border: 1px solid;
+    height: 450px;
+    width: 49%;
+    float: left;
+}
+.articulo2{
+    border: 1px solid;
+    height: 450px;
+    width: 49%;
+    float: right;
+}
+h1{
+    border: solid 1px;
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+a{
+    color: red;
+    text-decoration: none;
+}
+.menu{
+    height: 40px;
+    width: 100%;
+}
+.contactos{
+    border: 1px solid;
+}
